@@ -1,3 +1,18 @@
 img {
     width: 300px;
 }
+
+header {
+    background-color: rgb(0, 0, 0);
+    /* Cor de fundo*/
+    color: rgb(110, 3, 132);
+    /* Cor da letra */
+    text-align: center;
+    /* alinhamento do texto */
+    max-width: 800px;
+    /* largura maxima */
+    margin: 0 auto;
+    /* espaço entre a borsa e o conteudo */
+    padding: 16px;
+    /* espaço entre o conteudo */
+}
