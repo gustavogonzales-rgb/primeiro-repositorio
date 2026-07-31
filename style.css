@@ -16,3 +16,19 @@ header {
     padding: 16px;
     /* espaço entre o conteudo */
 }
+
+main {
+    background-color: blueviolet;
+    color: black;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 16px;
+}
+
+.artigo-autor {
+    font-weight: bold;    /* espessura da fonte - negrito */
+}
+
+article {
+    display: flex; /* conâiner flexivel */
+}
